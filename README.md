@@ -8,6 +8,6 @@
 - Rosas Castillo Gabriela
 
 ## Objetivo general
-### Dar a conocer por medio de una aplicación web los dulces mexicanos para ser vendidos a otra parte del mundo, donde claramente no pueden consumirlos.
+#### Dar a conocer por medio de una aplicación web los dulces mexicanos para ser vendidos a otra parte del mundo, donde claramente no pueden consumirlos.
 
 ## Historias de usuario
