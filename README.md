@@ -4,8 +4,8 @@
 
 ### Integrantes del proyecto
 
-> Sandoval Rodriguez Lendy Joanna
-> Rosas Castillo Gabriela
+- Sandoval Rodriguez Lendy Joanna
+- Rosas Castillo Gabriela
 
 ## Objetivo general
 ### Dar a conocer por medio de una aplicación web los dulces mexicanos para ser vendidos a otra parte del mundo, donde claramente no pueden consumirlos.
