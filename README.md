@@ -1,9 +1,9 @@
 ## Nombre del proyecto
-### International sweet
+### *"International sweet"*
 ## Logo
 ![Logo](https://user-images.githubusercontent.com/80369054/192404751-0a032474-4cd4-4e0e-a768-b076b24be80e.png)
 
-## *Integrantes del proyecto*
+## Integrantes del proyecto
 
 - Sandoval Rodriguez Lendy Joanna
 - Rosas Castillo Gabriela
