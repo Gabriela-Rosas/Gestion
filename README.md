@@ -14,7 +14,7 @@
 ## Historias de usuario
 
 | ID |  Nombre | Descripción | Prioridad | 
-| ------------- | ------------- || ------------- | ------------- |
+| --- | --- | --- | --- |
 | 01   | Registro |Ingresar los datos personales como (Nombre, apellido paterno, apellido materno, correo eletronico, contraseña, tipo usuario) para poder entrar al sitio web.    |       Alta |
 | 02   | Login     | El usuario podrá ingresar al sitio con su usuario y contraseña una vez que este registrado en el sistema.    |      Alta |
 | 03     | Recuperación de contraseña| Si el usuario olvida su contraseña contará con una opción para recuperarla por medio de correo electronico.     |       Media |
