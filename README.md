@@ -1,7 +1,7 @@
 ## Nombre del proyecto
 ### *"International sweet"*
 ## Logo
-![image](https://user-images.githubusercontent.com/80369054/192405823-a10483f9-81ca-4864-9d90-569b7d31cef2.png)
+![Mi proyecto](https://user-images.githubusercontent.com/80369054/192904555-84a5c399-bfef-4913-9f68-99bc74a3c647.png)
 
 ## Integrantes del proyecto
 
