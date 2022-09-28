@@ -13,7 +13,7 @@
 
 ## Historias de usuario
 
-| ID |  Actividad | Prioridad | 
+| ID |  Actividad | Descripción | Prioridad | 
 | :---         |     :---:      |          ---: |
-| 1.0     |  Integrar el sensor de pulso cardiaco al bolso     |         Debería|
-| 1.1     |  Integrar el display de LCD para mostrar el pulso de las personas    |         Debería|
+| HU1     |  Registro para ingresar al sitio     |  Ingresar los datos personales como (Nombre, apellido paterno, apellido materno, correo eletronico, contraseña, tipo usuario) para poder entrar al sitio web.|       Media|
+| HU2     | Login de la aplicación    | El usuario podrá ingresar al sitio con su usuario y contraseña una vez que este registrado en el sistema.|Alta|
