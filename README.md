@@ -15,7 +15,7 @@
 
 | ID |  Nombre | Descripción | Prioridad | 
 | :---         |     :---:      |          ---: |       ---: |
-| 01   | Regustro |Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.    |       1 |
+| 01   | Registro |Ingresar los datos personales como (Nombre, apellido paterno, apellido materno, correo eletronico, contraseña, tipo usuario) para poder entrar al sitio web.    |       Alta |
 | 02   | Login     | Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.    |      1 |
 | 03     | Recuperación de contraseña| Se usará para realizar el circuito.     |       1 |
 | 04    | Vista principal del usuario cliente    |Son parte del circuito     |      1 |
