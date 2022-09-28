@@ -14,6 +14,6 @@
 ## Historias de usuario
 
 | ID |  Actividad | Descripción | Prioridad | 
-| :---         |     :---:      |          ---: |
+
 | HU1     |  Registro para ingresar al sitio     |  Ingresar los datos personales como (Nombre, apellido paterno, apellido materno, correo eletronico, contraseña, tipo usuario) para poder entrar al sitio web.|       Media|
 | HU2     | Login de la aplicación    | El usuario podrá ingresar al sitio con su usuario y contraseña una vez que este registrado en el sistema.|Alta|
