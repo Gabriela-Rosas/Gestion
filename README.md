@@ -16,8 +16,8 @@
 | ID |  Nombre | Descripción | Prioridad | 
 | :---         |     :---:      |          ---: |       ---: |
 | 01   | Registro |Ingresar los datos personales como (Nombre, apellido paterno, apellido materno, correo eletronico, contraseña, tipo usuario) para poder entrar al sitio web.    |       Alta |
-| 02   | Login     | Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.    |      1 |
-| 03     | Recuperación de contraseña| Se usará para realizar el circuito.     |       1 |
-| 04    | Vista principal del usuario cliente    |Son parte del circuito     |      1 |
-| 05    | Vista principal de los proveedores    | Dispositivo utilizado en espacios de interior a fin de monitorear la temperatura y humedad   |     1 |
-| 06 |  Contacto  | Chip con tecnología Wi-Fi y Bluetooth de modo dual integrada    |       1 |
+| 02   | Login     | El usuario podrá ingresar al sitio con su usuario y contraseña una vez que este registrado en el sistema.    |      Alta |
+| 03     | Recuperación de contraseña| Si el usuario olvida su contraseña contará con una opción para recuperarla por medio de correo electronico.     |       Media |
+| 04    | Vista principal del usuario cliente    | Esta pantalla mostrará al cliente lasa diferentes opciones para realizar la compra de productos.     |      Alta |
+| 05    | Vista principal de los proveedores    | Esta pantalla mostrará al usuario proveedor diferentes opciones para realizar la publicación de sus productos para mostrarlos en la pantalla de los clientes y estos puedan visualizarlos.   |     Alta |
+| 06 |  Contacto  | Los usuarios podrán enviar mensajes a través de esta pantalla sin importar el tipo de usuario con el que esten autenticados.   |       Media |
